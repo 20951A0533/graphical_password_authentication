@@ -1,1 +1,2 @@
 # graphical_password_authentication
+A graphical password or graphical user authentication is a form of authentication using images rather than letters, digits, or special characters.Graphical password is one of process for authentication in computer system. computer security is create a safe zone for our digital devices. Graphical password is a one of the processes to provide our security of digital device or important information. As we know that our human brain can easily store or recall an image or image-based password.
